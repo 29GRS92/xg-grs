@@ -2,8 +2,6 @@
 
 **👉 Tester l'appli : [29grs92.github.io/xg-grs](https://29grs92.github.io/xg-grs/)**
 
-![xG Grasso](xG_Grasso_LinkedIn_FR.png)
-
 J'ai construit mon propre modèle d'expected goals (xG) à partir de données brutes, puis je l'ai transformé en appli web gratuite : on place le tireur, les défenseurs et le gardien sur le terrain, on décrit le tir, et l'appli calcule son xG en direct, avec ce qui augmente ou réduit les chances de marquer.
 
 ## C'est quoi le xG ?
